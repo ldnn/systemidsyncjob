@@ -1,5 +1,6 @@
 # systemidsync
 // TODO(user): Add simple overview of use/purpose
+# 用于根据'it-system-id'字段同步cmdb中的业务系统名到业务空间上
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
@@ -92,5 +93,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-# systemidsyncjob
-# 用于根据'it-system-id'字段同步cmdb中的业务系统名到业务空间上
+
